@@ -7,6 +7,7 @@ public class Array1 {
 		int[] a = {10,60,30,40};
      
      System.out.println(a[1] + " " + a[2]);
+     System.out.println(a[1]);
      for(int b : a)
     	 System.out.println(b);
      int[] x = new int[5];
