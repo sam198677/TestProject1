@@ -4,7 +4,7 @@ public class Array1 {
 
 	public static void main(String[] args) {
      
-		int[] a = {10,20,30,40};
+		int[] a = {10,60,30,40};
      
      System.out.println(a[1] + " " + a[2]);
      for(int b : a)
