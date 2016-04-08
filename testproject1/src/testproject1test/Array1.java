@@ -8,6 +8,7 @@ public class Array1 {
      
      System.out.println(a[1] + " " + a[2]);
      System.out.println(a[1]);
+     System.out.println(a[1]);
      for(int b : a)
     	 System.out.println(b);
      int[] x = new int[5];
